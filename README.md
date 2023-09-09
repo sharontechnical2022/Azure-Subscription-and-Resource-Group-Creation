@@ -40,6 +40,10 @@ Created a subscription in MS Azure along with a resource group.
 
 ![Screenshot 2023-09-06 130441](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/c5ce481c-1c5e-49e4-a73b-9f8540aef7b8)
 
+<b>New Resource Group created: </b>
+![Screenshot 2023-09-06 130544](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/78ac9d66-a4dd-40b3-b973-744de4bb6b16)
+
+
   - [VirtualBox Install Walkthrough](https://github.com/sharontechnical2022/Virtual-Box-Install/edit/main/README.md)
     
  - <b>Installing Redhat Linux on Virtual Box</b>

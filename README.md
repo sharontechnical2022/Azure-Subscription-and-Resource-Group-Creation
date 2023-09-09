@@ -1,4 +1,4 @@
-# Azure-Subscription-and-Resource-Group-Creation
+98# Azure-Subscription-and-Resource-Group-Creation
 
 <h2> Description</h2>
 Created a subscription in MS Azure along with a resource group.
@@ -24,13 +24,21 @@ Created a subscription in MS Azure along with a resource group.
 
 ![Screenshot 2023-09-05 154049](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/2f4e462a-3a73-4c4b-9338-06b2e1882ea7)
 
-<b>From the screenshot above, click: 
-- "Create"
--  then choose your region based on your location in "Resource details." </b>
+<b>From the screenshot above, click: </b>
+- <b>"Create"</b>
+-  then choose your region based on your location in "Resource details." 
+- Therefore, I chose <b>"East-US" </b>
 ![Screenshot 2023-09-05 154101](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/fde50b22-84a4-4886-bf4a-a378f059cf55)
 
+<b>From the screenshot above, click: </b>
+- "Review + create"
+- Name your resource group (see field "Resource group"
+- <b>Note: </b> I named mine "RG-Lab-1"
+ ![Screenshot 2023-09-06 130345](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/5f6839a1-ef46-4155-a9ab-eaf55e5e260f)
 
+<b>Add/label your tags (if you choose to) </b>
 
+![Screenshot 2023-09-06 130441](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/c5ce481c-1c5e-49e4-a73b-9f8540aef7b8)
 
   - [VirtualBox Install Walkthrough](https://github.com/sharontechnical2022/Virtual-Box-Install/edit/main/README.md)
     

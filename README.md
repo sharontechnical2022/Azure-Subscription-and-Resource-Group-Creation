@@ -3,15 +3,36 @@
 <h2> Description</h2>
 Created a subscription in MS Azure along with a resource group.
 
+<h2> Environments Used</h2>
 
-- <b>Setting up a Virtual Machine on Windows 11 Home</b>
+- <b>Windows 11 Home</b>
+- <b>Microsoft Azure</b>
+
+
+<h2>Create Subscription (aka Tenant) </h2>
+
+ 
+  - [Go to the Microsoft Azure portal](https://portal.azure.com)
+    - <b>Note:</b> Create an account if this is your first time using Azure
+     ![image](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/33d0ebfd-ed3c-4cfd-b201-563c24f22d59)
+
+<b>Once you have created your account, you have created your tenant (see below- "Azure subscription 1"):</b>
+ ![Screenshot 2023-09-05 153912](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/8d4168f8-7782-478b-a010-7625075fd5e7)
+
+<h2>Create your Resource Group </h2>
+<b>Look for "resource groups" by typing the name into the search box. As you can see no Resource Groups exist. </b>
+
+![Screenshot 2023-09-05 154049](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/2f4e462a-3a73-4c4b-9338-06b2e1882ea7)
+
+<b>From the screenshot above, click: 
+- "Create"
+-  then choose your region based on your location in "Resource details." </b>
+![Screenshot 2023-09-05 154101](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/fde50b22-84a4-4886-bf4a-a378f059cf55)
+
+
+
+
   - [VirtualBox Install Walkthrough](https://github.com/sharontechnical2022/Virtual-Box-Install/edit/main/README.md)
     
  - <b>Installing Redhat Linux on Virtual Box</b>
     - [Redhat Linux Installation](https://github.com/sharontechnical2022/RedHat-Linux-Install)
-
-<h2>Microsoft Azure </h2>
-
- 
-  - [Go to the Microsoft Azure portal](https://portal.azure.com)
-  -     ![image](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/33d0ebfd-ed3c-4cfd-b201-563c24f22d59)

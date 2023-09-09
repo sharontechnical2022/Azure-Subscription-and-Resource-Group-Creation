@@ -49,12 +49,15 @@ Created a subscription in MS Azure along with a resource group.
 <b>Type in "storage accounts" in search box:</b>
 ![Screenshot 2023-09-06 130705](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/9016632b-00dc-4d01-8f48-52fb4f4960f0)
 
-<b>Click "Create" to create new stroage account:</b>
+<b>Click 
+ - "Create" to create new storage account.
+ - Fill in the "storage account name" field:</b>
 ![Screenshot 2023-09-06 130950](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/4a5426ad-4f6c-4970-80fb-af5dd9b80c4a)
 
-<b>Fill in the "storage account name" field:</b>
+<b> After clicking "Review" you will be able to click next and viola ...storage account is created. </b>
 ![Screenshot 2023-09-06 131022](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/5d8abfbc-66f7-4f1b-b41c-bc4a1807f61f)
 
+<b> Storage account creation in progress: </b>
 ![Screenshot 2023-09-06 131041](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/a44bafa3-74af-439f-8324-f45f06ff29b2)
 
 <b>A view of tenant, resource group, and storage account:</b>

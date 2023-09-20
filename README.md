@@ -73,7 +73,7 @@ Type <b>"storage accounts"</b> in search box:<br><br>
 ![Screenshot 2023-09-06 131041](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/a44bafa3-74af-439f-8324-f45f06ff29b2)
 </b>
 <b>A view of tenant, resource group, and storage account:</b><br><br>
-<b>Figure 5.0:View - resources created view </b>
+<b>Figure 5.0: View - resources created </b>
 ![Screenshot 2023-09-06 135545](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/c04854cb-505e-4b78-b6ad-fe8be9dd5722)
 
 

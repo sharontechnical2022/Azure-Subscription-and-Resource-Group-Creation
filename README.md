@@ -14,14 +14,14 @@ Created a subscription in MS Azure along with a resource group.
  
   - [Go to the Microsoft Azure portal](https://portal.azure.com)
   
-    - <b>Note:</b> Create an account if this is your first time using Azure<br><br>  <b>Figure 1.0</b>
+    - <b>Note:</b> Create an account if this is your first time using Azure<br><br>  <b>Figure 1.0: Login Screen</b>
      ![image](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/33d0ebfd-ed3c-4cfd-b201-563c24f22d59)
 
-<b>Once you have created your account, you have created your tenant (see below- "Azure subscription 1"):</b>
+<b>Once you have created your account, you have created your tenant (see below- "Azure subscription 1"):</b><br><br>  <b>Figure 2.0: View of subscription</b>
  ![Screenshot 2023-09-05 153912](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/8d4168f8-7782-478b-a010-7625075fd5e7)
 
 <h2>Create your Resource Group </h2>
-<b>Look for "resource groups" by typing the name into the search box. As you can see no Resource Groups exist. </b>
+Look for <b>"resource groups"</b> by typing the name into the search box. As you can see no Resource Groups exist. <br><br>  <b>Figure 3.0: Resource Group screen</b>
 
 ![Screenshot 2023-09-05 154049](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/2f4e462a-3a73-4c4b-9338-06b2e1882ea7)
 

@@ -13,6 +13,7 @@ Created a subscription in MS Azure along with a resource group.
 
  
   - [Go to the Microsoft Azure portal](https://portal.azure.com)
+    <b>Figure 1.0</b>
     - <b>Note:</b> Create an account if this is your first time using Azure
      ![image](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/33d0ebfd-ed3c-4cfd-b201-563c24f22d59)
 

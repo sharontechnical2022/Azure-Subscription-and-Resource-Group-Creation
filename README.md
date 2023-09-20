@@ -53,7 +53,7 @@ Look for <b>"resource groups"</b> by typing the name into the search box. As you
 ![Screenshot 2023-09-06 130625](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/340c12ae-7ef8-462d-b1e3-f4a35f93b79d)
 
 <b><h2>Bonus </h2></b>
-<b>Type in "storage accounts" in search box:</b><br><br>
+Type <b>"storage accounts"</b> in search box:<br><br>
 <b>Figure 1.0: View of Storage accounts screen </b>
 ![Screenshot 2023-09-06 130705](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/9016632b-00dc-4d01-8f48-52fb4f4960f0)
 

@@ -1,12 +1,12 @@
 98# Azure-Subscription-and-Resource-Group-Creation
 
 <h2> Description</h2>
-Created a subscription in MS Azure along with a resource group.
+Tutorial for the creation of a subscription in Microsoft Azure along with a resource group.
 
 <h2> Environments Used</h2>
 
-- <b>Windows 11 Home</b>
-- <b>Microsoft Azure</b>
+- Windows 11 Home
+- Microsoft Azure
 
 
 <h2>Create Subscription (aka Tenant) </h2>
@@ -15,7 +15,7 @@ Created a subscription in MS Azure along with a resource group.
   - [Go to the Microsoft Azure portal](https://portal.azure.com)
   
     - <b>Note:</b> Create an account if this is your first time using Azure<br><br>  <h4><b>Figure 1.0: Login Screen</b></h4>
-     ![image](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/33d0ebfd-ed3c-4cfd-b201-563c24f22d59)
+    <img src = https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/33d0ebfd-ed3c-4cfd-b201-563c24f22d59)>
 
 Once you have created your account, you have created your tenant (<b>see Figure 2.0 </b>):</b><br><br>  <b>Figure 2.0: View of subscription</b>
  ![Screenshot 2023-09-05 153912](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/8d4168f8-7782-478b-a010-7625075fd5e7)

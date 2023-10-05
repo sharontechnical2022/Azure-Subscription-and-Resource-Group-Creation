@@ -23,27 +23,27 @@ Once you have created your account, you have created your tenant (<b>see Figure 
 <h2>Create your Resource Group </h2>
 Look for <b>"resource groups"</b> by typing the name into the search box. As you can see no Resource Groups exist. <br><br>  <b>Figure 3.0: Resource Group screen</b>
 
-![Screenshot 2023-09-05 154049](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/2f4e462a-3a73-4c4b-9338-06b2e1882ea7)
+![Screenshot 2023-09-05 154049](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/9be2f6c3-2c8d-4f44-b82e-6bb5ecdb76c6)
 
 <b>From the screenshot above, click: </b>
 - <b>"Create"</b>
 -  then choose your region based on your location in "Resource details." 
 - Therefore, I chose <b>"East-US" </b> <br><br>
 <b>Figure 4.0: Resource Group screen to choose Region </b>
-![Screenshot 2023-09-05 154101](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/fde50b22-84a4-4886-bf4a-a378f059cf55)
+![Screenshot 2023-09-05 160122](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/e42b6ab9-691c-4cd8-8f97-4098e2407425)
 
 <b>From the screenshot above, click: </b>
 - "Review + create"
-- Name your resource group (see field "Resource group"
+- Name your resource group (see field "Resource group")
 - <b>Note: </b> I named mine "RG-Lab-1" <br><br>
 <b>Figure 5.0: Name the Resource Group </b>
- ![Screenshot 2023-09-06 130345](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/5f6839a1-ef46-4155-a9ab-eaf55e5e260f)
+![Screenshot 2023-09-06 130345](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/122a114d-9c57-4e42-bc63-015d3ba85d60)
 
 <b>Add/label your tags (if you choose to) </b>
 
 <br><br>
 <b>Figure 6.0: Tag screen </b>
-![Screenshot 2023-09-06 130441](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/c5ce481c-1c5e-49e4-a73b-9f8540aef7b8)
+![Screenshot 2023-09-06 130441](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/94f9d0be-4dc1-458e-a0b9-e9275c66a6ea)
 
 <b>New Resource Group created: </b><br><br>
 <b>Figure 7.0: Create Resource Group screen </b>

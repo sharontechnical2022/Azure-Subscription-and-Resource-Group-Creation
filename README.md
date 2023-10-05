@@ -47,34 +47,38 @@ Look for <b>"resource groups"</b> by typing the name into the search box. As you
 
 <b>New Resource Group created: </b><br><br>
 <b>Figure 7.0: Create Resource Group screen </b>
-![Screenshot 2023-09-06 130544](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/78ac9d66-a4dd-40b3-b973-744de4bb6b16)
+![Screenshot 2023-09-06 130544](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/db98196f-f0e8-4251-b542-1dd60a34e722)
 <br><br>
 <b>Figure 8.0: Resource Group created </b>
-![Screenshot 2023-09-06 130625](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/340c12ae-7ef8-462d-b1e3-f4a35f93b79d)
+![Screenshot 2023-09-06 130625](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/768b8ae1-c5ac-4ecd-93ff-bdb41d4fefc9)
 
 <b><h2>Bonus </h2></b>
 Type <b>"storage accounts"</b> in search box:<br><br>
 <b>Figure 1.0: View of Storage accounts screen </b>
-![Screenshot 2023-09-06 130705](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/9016632b-00dc-4d01-8f48-52fb4f4960f0)
+![Screenshot 2023-09-06 130705](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/728cf788-83d5-40f8-b22a-4709289f749e)
 
 <b>Click: 
  -"Create"</b> to create new storage account.
  - Fill in the ,b>"storage account name" </b>field.
 </b><br><br>
 <b>Figure 2.0: Storage accounts creation screen </b>
-![Screenshot 2023-09-06 130950](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/4a5426ad-4f6c-4970-80fb-af5dd9b80c4a)
+![Screenshot 2023-09-06 130950](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/ef9a2e91-85eb-4afa-97f3-ea60f539dd1a)
+
+
 
 <b> After clicking <b>"Review" </b>you will be able to click <b>next</b> and viola ...storage account is created. </b><br><br>
 <b>Figure 3.0: Create Storage Account screen </b>
-![Screenshot 2023-09-06 131022](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/5d8abfbc-66f7-4f1b-b41c-bc4a1807f61f)
+![Screenshot 2023-09-06 131022](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/f5231564-f23c-4b0e-90f4-082d8805ea5d)
 
 <b> Storage account creation in progress: </b></b><br><br>
 <b>Figure 4.0: Storage Account progress</b>
-![Screenshot 2023-09-06 131041](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/a44bafa3-74af-439f-8324-f45f06ff29b2)
+![Screenshot 2023-09-06 131041](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/6c97c1f2-5789-4ddb-a511-cbc6b07df6c8)
+
+![Screenshot 2023-09-06 131155](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/5b2d56ac-7e6a-406f-990b-5722c45edefc)
 </b>
 <b>A view of tenant, resource group, and storage account:</b><br><br>
 <b>Figure 5.0: View - resources created </b>
-![Screenshot 2023-09-06 135545](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/c04854cb-505e-4b78-b6ad-fe8be9dd5722)
+![Screenshot 2023-09-06 135545](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/e857c1a7-567a-4d5b-ab0a-b23274e5e62b)
 
 
 

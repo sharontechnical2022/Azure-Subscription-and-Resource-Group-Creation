@@ -15,7 +15,7 @@ Tutorial for the creation of a subscription in Microsoft Azure along with a reso
   - [Go to the Microsoft Azure portal](https://portal.azure.com)
   
     - <b>Note:</b> Create an account if this is your first time using Azure<br><br>  <h4><b>Figure 1.0: Login Screen</b></h4>
-    <img src = https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/33d0ebfd-ed3c-4cfd-b201-563c24f22d59)>
+![image](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/6a3647df-6a8b-4bb6-b92e-bd17590190a0)
 
 Once you have created your account, you have created your tenant (<b>see Figure 2.0 </b>):</b><br><br>  <b>Figure 2.0: View of subscription</b>
  ![Screenshot 2023-09-05 153912](https://github.com/sharontechnical2022/Azure-Subscription-and-Resource-Group-Creation/assets/141186669/8d4168f8-7782-478b-a010-7625075fd5e7)

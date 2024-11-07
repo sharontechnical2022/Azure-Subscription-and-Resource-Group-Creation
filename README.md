@@ -5,7 +5,7 @@
 
 </p>
 <h2> Description</h2>
-Tutorial for the creation of a subscription in Microsoft Azure along with a resource group.
+Tutorial for the creation of a subscription in Microsoft Azure along with a resource group. 
 
 <h2> Environments Used</h2>
 
